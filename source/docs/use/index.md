@@ -1,5 +1,5 @@
----
-title: User documentation
+zain---
+title: friend 
 description: 'Everything HACS for users.'
 ---
 !!! info "HACS before Home Assistant 2026.11"
